@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/12_bookreview/app/src/main/res/drawable/background_gray_stroke_radius_8.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/12_bookreview/app/src/main/res/layout/activity_detail.xml" value="0.24114583333333334" />
         <entry key="..\:/Users/ksong/AndroidStudioProjects/12_bookreview/app/src/main/res/layout/activity_main.xml" value="0.24114583333333334" />
         <entry key="..\:/Users/ksong/AndroidStudioProjects/12_bookreview/app/src/main/res/layout/item_book.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/12_bookreview/app/src/main/res/layout/item_history.xml" value="0.12083333333333333" />
       </map>
     </option>
   </component>
